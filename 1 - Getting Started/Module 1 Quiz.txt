@@ -1,0 +1,94 @@
+1. Which of the following are true when it comes to the business value of big data? (Select all
+that apply.)
+The size of the data businesses collect is growing
+As the technology improves, businesses are collecting more and more data.
+
+Businesses are increasingly making data-driven decisions
+More and more, businesses are seeing the value of driving decision-making using data.
+
+
+2. Spark uses...
+A distributed cluster of networked computers made of a driver node and many executor nodes
+
+A driver node to distribute work across a number of executor nodes
+
+
+3. How does Spark execute code backed by DataFrames? (Select all that apply.)
+It separates the "logical plan" of what you want to accomplish from the "physical plan" of how
+to do it so it can optimize the query
+Spark generates code on the fly to provide the most optimal way of serving your query.
+
+It optimizes your query by figuring out the best "how" to execute what you want
+Since Spark knows what you want to accomplish, it's able to figure out the best way to do it.
+
+
+4. What are the properties of Spark DataFrames? (Select all that apply.)
+Dataset: Collection of partitioned data
+The collection of data is partitioned so it can be distributed across the cluster.
+
+Resilient: Fault-tolerant
+If you lose a worker, only recompute work that worker was responsible for.
+
+Distributed: Computed across multiple nodes
+Each node computes on its own data.
+
+
+5. What is the difference between Spark and database technologies? (Select all that apply.)
+Spark is a computation engine and is not for data storage
+Spark is a computation engine, whereas database technology is meant for data storage.
+
+Spark is a highly optimized compute engine and is not a database
+Spark is a robust unified analytics engine and does not act like a database.
+
+
+6. What is Amdahl's law of scalability? (Select all that apply.)
+Amdahl's law states that the speedup of a task is a function of how much of that task can be
+parallelized
+
+A formula that gives the theoretical speedup as a function of the percentage of a computation that
+can be parallelized
+
+
+7. Spark offers a unified approach to analytics. What does this include? (Select all that apply.)
+Spark allows analysts, data scientists, and data engineers to all use the same core technology
+Spark provides a common framework for data analysts, data scientists, and data engineers to all use the same technology and design patterns.
+
+Spark unifies applications such as SQL queries, streaming, and machine learning
+Spark works seamlessly with streaming, SQL, machine learning, and graph processing
+
+Spark code can be written in the following languages: SQL, Scala, Java, Python, and R
+Spark code can be written in a number of languages that are executed in the same way regardless of the language.
+
+Spark is able to connect to data where it lives in any number of sources, unifying the components of a data application
+Spark has a diverse set of connectors that can connect to data where it lives.
+
+
+8. What is a Databricks notebook?
+A colaborative, interactive workspace that allows you to execute Spark queries at scale.
+A notebook is an interactive way of interacting with Spark code.
+
+
+9. How can you get data into Databricks? (Select all that apply.)
+By uploading it through the user interface
+Uploading data through the user interface works well for small datasets.
+
+By registering the data as a table
+Data in Spark can be registered as its own table.
+
+By "mounting" data backed by cloud storage
+Mounting data makes it appear in Spark as though the data were sitting on the Cluster itself.
+
+
+10. What are the qualities of big data? (Select all that apply.)
+Velocity: the speed of data
+The speed at which data arrives in architectures is growing exponentially.
+
+Veracity: the reliability of data
+Data is not always reliable as it is sometimes user generated, poorly processed, or with other
+problems.
+
+Volume: the amount of data
+The amount of data is growing exponentially.
+
+Variety: the diversity of data
+More and more different kinds of data are being processed by data applications.

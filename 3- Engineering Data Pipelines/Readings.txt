@@ -1,0 +1,10 @@
+M​odule 3 Readings
+Why You Should Care about Data Layout in the Filesystem
+https://databricks.com/session/why-you-should-care-about-data-layout-in-the-filesystem
+
+Lessons From the Field: Applying Best Practices to Your Apache Spark Applications
+https://www.youtube.com/watch?v=iwQel6JHMpA&ab_channel=Databricks
+
+W​orking with Complex Data Formats with Structured Streaming in Apache Spark 2.1: Part 2 of Scalable
+Data at Databricks
+https://databricks.com/blog/2017/02/23/working-complex-data-formats-structured-streaming-apache-spark-2-1.html

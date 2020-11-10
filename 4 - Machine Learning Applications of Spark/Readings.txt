@@ -1,0 +1,21 @@
+M​odule 4 Readings:
+
+Linear Regression
+https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/least-squares-regression/v/regression-residual-intro
+
+Logistic Regression (for the lab)
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
+C​onfusion Matrix (for the lab)
+https://en.wikipedia.org/wiki/Confusion_matrix
+
+D​etecting Financial Fraud at Scale with Decision Trees and MLflow on Databricks
+https://databricks.com/blog/2019/05/02/detecting-financial-fraud-at-scale-with-decision-trees-and-mlflow-on-databricks.html
+
+M​anaged MLflow on Databricks now in public preview: Get started with MLflow in minutes, on Azure or
+AWS
+https://databricks.com/blog/2019/03/06/managed-mlflow-on-databricks-now-in-public-preview.html
+
+A​ccelerating the Machine Learning Lifecycle with MLflow 1.0 by M. Zaharia, A. Davidson, and G.
+Buehrer
+https://www.youtube.com/watch?v=QJW_kkRWAUs&feature=youtu.be&t=1377

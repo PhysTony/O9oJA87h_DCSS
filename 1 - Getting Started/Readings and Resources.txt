@@ -1,0 +1,12 @@
+Course Notebooks:
+> https://files.training.databricks.com/courses/davis/Lessons.dbc
+
+R​eadings:
+> S​park SQL and DataFrames and Datasets Guides - https://spark.apache.org/docs/latest/sql-programming-guide.html
+> S​QL Guide from Databricks- https://docs.databricks.com/spark/latest/spark-sql/index.html
+
+Additional R​esources:
+> This is an optional resource that you could consider purchasing from this seller. This link is to 
+get you started on an eBook version that does have a free trial option. S​park: The Definitive 
+Guide - https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
+> T​his is a free gitbook: Introduction - The Internals of Spark SQL. - https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/
